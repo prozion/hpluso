@@ -1,0 +1,32 @@
+people include-namespace:/_world/universities.tree,/_world/geoplaces.tree
+	FM_2030 alt:Fereidoun_Esfandiary bdate:1930 crdate:2000
+	Алексей_Турчин bdate:1973 ht:Москва
+	Валентин_Турчин bdate:1931 ddate:2010
+	Валерия_Прайд
+	Виктор_Аргонов ht:Владивосток
+	Владимир_Анисимов bdate:1945 editor:Успехи_геронтологии
+	Данила_Медведев ht:Москва
+	Джулиан_Хаксли alt:Julian_Huxley bdate:1887 ddate:1975 ht:London
+	Дмитрий_Ицков
+	Дмитрий_Рязанов
+	Дэвид_Пирс alt:David_Pearce bdate:03.04.19xx
+	Дэмиен_Бродерик bdate:1944 ht:San_Antonio edu:Deakin_University former-prof:UMelbourne
+	Жак_Фреско
+	Игорь_Артюхов
+	Игорь_Вишев bdate:1933 ht:Челябинск
+	Макс_Мор
+	Марвин_Минский bdate:1927 ddate:2016 ht:Boston prof:MIT
+	Михаил_Анисимов
+	Михаил_Батин ht:Кострома,Москва
+	Наташа_Вита-Мор
+	Ник_Бостром alt:Nick_Bostrom
+	Николай_Мушкамбаров ht:Москва prof:Сеченовский_университет
+	Николай_Федоров bdate:1829 ddate:1903
+	Обри_ди_Грей
+	Порфирий_Бахметьев bdate:1860 ddate:1913
+	Роберт_Эттингер alt:Robert_Ettinger bdate:1918 crdate:2011 d:"основатель крионики"
+	Рэймонд_Курцвейл
+	Элицер_Юдковский
+	Эрик_Дрекслер
+	Юрий_Пичугин bdate:1951 crdate:2018
+	Ян_Корчмарюк bdate:1963 ht:Волгоград
