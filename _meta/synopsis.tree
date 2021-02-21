@@ -1,4 +1,5 @@
 relations
+	aa deabbr:"anti-aging" d:"marks object as related to anti-aging research,development or popularization"
 	bdate deabrr:"person's birthdate"
 	before d:"former names of organization"
 	crdate deabbr:"date of person's cryopreservation (presumably) after his death"
@@ -7,8 +8,6 @@ relations
 	founder d:"founder of organization"
 	hq deabbr:"headquarters"
 	ht deabbr:"hometown"
-	msc-ins deabbr:"muscle insertion" domain:Organ range:Muscle
-	msc-origin deabbr:"muscle origin" domain:Organ range:Muscle
 	prof deabbr:"professor"
 	start d:"start time of some process"
 	syn deabbr:"synonym" d:"synonymical relation"
