@@ -1,8 +1,8 @@
 organizations include-namespace:/_world/geoplaces.tree
 	ngo
-		МТД deabbr:"Международное трансгуманистическое движение" start:2019 hq:Москва
+		МТД deabbr:"Международное трансгуманистическое движение" start:2019 hq:Москва url:thworld.org
 		Россия_2045 start:2011 end:2017 founder:Дмитрий_Ицков url:2045.ru
-		РТД deabbr:"Российское трансгуманистическое движение" start:2003 hq:Москва url:transhumanism-russia.ru
+		РТД deabbr:"Российское трансгуманистическое движение" start:2005 hq:Москва url:transhumanism-russia.ru
 		Aleph url:aleph.se
 		2045_Initiative
 		AFT_Technoprog deabbr:"Association française transhumaniste" start:2007
@@ -57,7 +57,7 @@ organizations include-namespace:/_world/geoplaces.tree
 		Movement_for_Indefinite_Life_Extension
 		Network_Society
 		Nygård Biotech
-		Open_Longevity
+		Open_Longevity alt:Фонд_«Наука_за_продление_жизни» start:2007
 		Organizacion_Mundial_del_Transhumanismo
 		Orions_Arm_Universe_Project
 		People_for_the_Ethical_Treatment_of_Reinforcement_Learners
