@@ -10,8 +10,7 @@ research_centers
 	england
 		BirbeckCollege hq:Bloomsbury uni:ULondon start:1823
 		CISBAN deabbr:"Center for Integrated Systems Biology of Ageing and Nutrition" hq:Newcastle uni:UNewcastle url:ncl.ac.uk/cisban
-		EBI alt-id:European_Bioinformatics_Institute,EMBL-EBI name:"European Bioinformatics Institute" hq:Hinxton part-of:EMBL
-		EMBL-EBI deabbr:"European Bioinformatics Institute" part-of:EMBL hq:Hinxton start:1992
+		EBI alt-id:European_Bioinformatics_Institute,EMBL-EBI name:"European Bioinformatics Institute" hq:Hinxton part-of:EMBL start:1992
 		IBabraham name:"Babraham Institute" hq:Babraham
 		ISanger hq:Hinxton
 		MCISB name:"Manchester Centre for Integrative Systems Biology" uni:UManchester
@@ -94,7 +93,7 @@ research_centers
 		National_Cancer_Institute hq:Rockville part-of:NIH
 		NCBI deabbr:"National Center for Biotechnology Information" hq:Bethesda start:1988 part-of:NLM
 		NYULMC name:"NYU Langone Medical Center" uni:NYU
-		RIStanford deabbr:"Stanford Research Institute" hq:Menlo_Park start:1946
+		SRI deabbr:"Stanford Research Institute" hq:Menlo_Park start:1946
 		Rockford_Research_Institute hq:Rockford start:1961
 		RPCCC deabbr:"Roswell Park Comprehensive Cancer Center" hq:Buffalo start:1898 url:roswellpark.org
 		SCSB alt-id:Stanford_Center_for_Systems_Biology uni:UStanford

@@ -1,6 +1,7 @@
 people include-namespace:/_world/universities.tree,/_world/geoplaces.tree
 	russia
 		Алексей_Москалев bdate:1976 ht:Сыктывкар edu:СыктГУ job:Институт_биологии_Коми,СыктГУ,МФТИ projects:Расшифровка_генома_Myotis_brandtii books:Старение_и_гены theories:Фрактальная_гипотеза_старения
+		Алексей_Самыкин bdate:1982 ht:Москва edu:МПГУ job:КриоРус projects:РТД,Voice_Vision
 		Алексей_Турчин bdate:1973 ht:Москва job:Open_Longevity
 		Анастасия_Егорова bdate:1986 ht:Москва edu:МФТИ_ФБМФ,Британская_школа_дизайна job:Open_Longevity project:Longevity_Cook_Book
 		Валерия_Удалова alt:Валерия_Прайд bdate:1960 ht:Москва job:КриоРус projects:РТД,МТД,КриоРус,СССЧ
@@ -25,7 +26,7 @@ people include-namespace:/_world/universities.tree,/_world/geoplaces.tree
 		Станислав_Скакун bdate:1983 ht:Москва job:BioData
 		Юрий_Пичугин bdate:1951 crdate:2018
 		Юрий_Хаит bdate:1967 ht:Санкт-Петербург edu:СПбГМТУ job:Гарант_Интернэшнл projects:Технологии_долголетия,RLE_Group
-		Ян_Корчмарюк bdate:1963 ht:Волгоград edu:ВолгГАСУ job:УНИТ_ВЦ_(ВолГТУ) projects:Сеттлеретика
+		Ян_Корчмарюк bdate:1963 ht:Волгоград edu:ВолгГАСУ job:УНИТ_ВЦ_(ВолГТУ) projects:Сеттлеретика img:корчмарюк2
 	other_countries
 		Жак_Фреско
 		Макс_Мор
